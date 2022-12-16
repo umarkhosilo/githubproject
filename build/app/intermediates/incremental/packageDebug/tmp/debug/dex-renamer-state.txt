@@ -1,0 +1,4 @@
+#Thu Dec 15 19:00:09 UZT 2022
+base.0=D\:\\flutter\\project\\eppa\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

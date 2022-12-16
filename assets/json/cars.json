@@ -1,0 +1,29 @@
+[
+    {
+        "name": "BMW",
+        "ages" :[
+            1, 2, 3],
+        "color":[
+            "color red",
+            "color white",
+            "color green"
+        ]
+    },
+    {
+        "name": "MERS",
+        "ages": [11,22,33],
+        "color":[
+            "color black",
+            "color phink",
+            "color blue"
+        ]
+    },
+    {
+        "name": "PORSH",
+        "ages":[111,112,113],
+        "color":["color grey",
+                 "color red",
+                "color acyn"]
+    }
+    
+]
